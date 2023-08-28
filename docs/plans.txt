@@ -1,0 +1,3 @@
+v1.1:
+сделать все popular- и new-методы отдельными.
+например: api/v1/tracks/get?popular=1 -> api/v1/tracks/get/popular
