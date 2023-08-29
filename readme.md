@@ -2,7 +2,6 @@
 
 
 ![Static Badge](https://img.shields.io/badge/made%20by-nshib00-%236dedad)
-![Static Badge](https://img.shields.io/badge/API%20version-1.0-orange)
 ![Static Badge](https://img.shields.io/badge/python-3.11.4-blue)
 ![Static Badge](https://img.shields.io/badge/djangorestframework-3.14-cyan)
 ![Static Badge](https://img.shields.io/badge/python-100%25-green)
